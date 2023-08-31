@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className='navbar navbar-expand-lg navbar-dark bg-dark py-2'>
             <div className='container-fluid'>
-                <Link to='/' className='navbar-brand ml-5'>Contact List App</Link>
+                <Link to='/' className='navbar-brand ml-5'>Contact List by pradeep</Link>
             </div>
         </nav >
     )
